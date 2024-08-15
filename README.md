@@ -1,1 +1,11 @@
 # E-commerce-Website
+# output
+![Screenshot (46)](https://github.com/user-attachments/assets/c7535450-3ac8-4faf-b57e-10c8b029c134)
+![Screenshot (47)](https://github.com/user-attachments/assets/fd415fc7-0ca4-49b2-8fba-8c5eb4088b19)
+![Screenshot (48)](https://github.com/user-attachments/assets/e5643f47-16fa-49be-8999-2183e6374007)
+![Screenshot (49)](https://github.com/user-attachments/assets/ae9d224b-2026-4a42-81b1-5455d4fb121a)
+![Screenshot (50)](https://github.com/user-attachments/assets/4435da51-8cf5-4c7f-a2c5-888795eaf204)
+![Screenshot (51)](https://github.com/user-attachments/assets/05de62ff-2920-4020-9889-b658ea22dacb)
+![Screenshot (51)](https://github.com/user-attachments/assets/36a57147-656d-4a26-a208-52bdc4ec4bbd)
+![Screenshot (53)](https://github.com/user-attachments/assets/66aaff40-0494-40bf-a3fd-5167a022d0c6)
+![Screenshot (61)](https://github.com/user-attachments/assets/9ae5dc8d-fbb2-4f88-afac-6746d26fc311)
